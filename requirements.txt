@@ -1,3 +1,4 @@
+autogen
 panel
 hvplot
 scikit-learn
